@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["app.css"],"sourcesContent":["#container{\r\n    background-color: greenyellow;\r\n}\r\n\r\n.app-test{\r\n    color: aqua;\r\n}"],"names":[],"version":3,"file":"index.75a90472.css.map","sourceRoot":"/__parcel_source_root/"}
